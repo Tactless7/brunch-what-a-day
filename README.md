@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Brunch + Babel/ES6
 
 This is a modern JS skeleton for [Brunch](http://brunch.io).
@@ -27,6 +27,4 @@ To use proposed JS features not included into ES6, do this:
 
 * `npm install --save-dev babel-preset-stage-0`
 * in `brunch-config.js`, add the preset: `presets: ['es2015', 'stage-0']`
-=======
-# brunch-what-a-day
->>>>>>> 5486760145d5a7e477a8677f683ec7ebb407f764
+
